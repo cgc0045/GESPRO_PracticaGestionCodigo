@@ -18,7 +18,8 @@ import ubu.digit.util.ExternalProperties;
  * <p>
  * Dependencias sobre recursos web ./css/ubuSisInf.css ./js/sorttable.js
  * <p>
- * Dependencia sobre los datos: Proyecto(Titulo, Descripcion, Tutor1, Tutor2,
+ * Dependencias sobre recursos web ./css/materialize.min.css, ./css/style.css y
+ * ./js/sorttable.js
  * Tutor3, Alumno1, Alumno2, Alumno3, CursoAsignacion) y
  * Alumno(Numero,ApellidosNombre,Dni,Repetidor,Asignado)
  * 
