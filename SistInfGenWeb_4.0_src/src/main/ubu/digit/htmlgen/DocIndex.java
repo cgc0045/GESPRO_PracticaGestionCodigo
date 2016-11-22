@@ -159,7 +159,7 @@ public class DocIndex extends DocSistInfHtml {
 
         outHtml.println("\t\t\t\t\t\t<div class='calendar-container'>");
 
-        String urlCalendario = "http://goo.gl/l4xy8Z";
+        String urlCalendario = "http://goo.gl/PgEkF1";
 
         outHtml.println("\t\t\t\t\t\t\t<iframe src='" + urlCalendario
                 + "'></iframe>");
